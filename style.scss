@@ -1,4 +1,5 @@
 $colorop: rgb(183, 17, 17);
+$
 *
 {
     margin: 0;
@@ -151,6 +152,7 @@ $colorop: rgb(183, 17, 17);
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
 }
 
 .hhh2 {
@@ -197,9 +199,6 @@ $colorop: rgb(183, 17, 17);
     left: 0;
     top: 6px;
 }
-
-/* Images Part */
-
 .hhh7 {
     width: 50%;
     display: flex;
@@ -247,4 +246,108 @@ $colorop: rgb(183, 17, 17);
 .img1
 {
     height: 250px;
+}
+.vvv1 {
+    width: 1200px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 170px;
+}
+
+.vvv2 {
+    display: flex;
+    gap: 30px;
+    width: 55%;
+}
+
+.vvv3,
+.vvv8 {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    width: 50%;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.vvv4,
+.vvv9 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.vvv5 {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.vvv5 img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.vvv5 span {
+    margin-left: 10px;
+    color: #2f6bff;
+    font-weight: 600;
+}
+
+.vvv6,
+.vvv12 {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.vvv7,
+.vvv13 {
+    text-decoration: none;
+    color: #2f6bff;
+    font-weight: 600;
+}
+
+.vvv10 {
+    margin-bottom: 15px;
+}
+
+.vvv11 {
+    color: #2f6bff;
+    font-weight: 600;
+}
+
+
+.vvv14 {
+    width: 40%;
+}
+
+.vvv15 {
+    color: #2f6bff;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.vvv16 {
+    font-size: 40px;
+    margin: 20px 0;
+    color: #0b0b45;
+}
+
+.vvv17 {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.vvv18 {
+    padding: 14px 30px;
+    background: linear-gradient(90deg, #2f6bff, #1c4ed8);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
 }
