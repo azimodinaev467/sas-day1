@@ -122,4 +122,107 @@
 .ccc17 {
   bottom: -50px;
   left: 120px;
+}
+
+.hhh1 {
+  width: 1200px;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hhh2 {
+  width: 45%;
+}
+
+.hhh3 {
+  color: #2f6bff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.hhh4 {
+  font-size: 40px;
+  margin: 20px 0;
+  color: #0b0b45;
+}
+
+.hhh5 {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.hhh6 {
+  list-style: none;
+}
+
+.hhh6 li {
+  margin-bottom: 15px;
+  padding-left: 25px;
+  position: relative;
+  font-weight: 500;
+  color: #222;
+}
+
+.hhh6 li::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #2f6bff;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 6px;
+}
+
+/* Images Part */
+.hhh7 {
+  width: 50%;
+  display: flex;
+  gap: 20px;
+}
+
+.hhh8 {
+  position: relative;
+}
+
+.hhh8 img {
+  width: 280px;
+  height: 350px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.hhh9 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  color: #2f6bff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.hhh10 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.hhh10 img {
+  width: 220px;
+  border-radius: 15px;
+}
+
+.img1 {
+  height: 250px;
 }/*# sourceMappingURL=style.css.map */
