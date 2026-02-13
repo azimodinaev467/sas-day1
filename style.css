@@ -578,4 +578,74 @@
 .ooo10 {
   width: 720px;
   height: auto;
+}
+
+.zzz1 {
+  padding: 100px 10%;
+  background: #f4f6fb;
+}
+
+.zzz2 {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.zzz3 {
+  color: #3b82f6;
+  font-size: 16px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.zzz4 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.zzz5 {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.zzz6 {
+  width: 32%;
+}
+
+.zzz7 {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.zzz8 {
+  width: 40px;
+  height: 3px;
+  background: orange;
+  margin-bottom: 15px;
+}
+
+.zzz9 {
+  font-size: 20px;
+  color: #1e293b;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+.zzz10,
+.zzz11 {
+  text-decoration: none;
+  font-size: 15px;
+  color: #6b7280;
+  transition: 0.3s;
+}
+
+.zzz11 {
+  color: #3b82f6;
+}
+
+.zzz10:hover,
+.zzz11:hover {
+  opacity: 0.7;
 }/*# sourceMappingURL=style.css.map */
